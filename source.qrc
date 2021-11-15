@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>logos/MapsTab.png</file>
+    <file>logos/color.png</file>
+    <file>logos/FuelTab1.png</file>
+    <file>logos/FireHydarantIcon.png</file>
+    <file>logos/SettingsTabIcon.png</file>
+    <file>logos/ColorPicker.png</file>
+    <file>logos/FireHydarantIcon.png</file>
+    <file>logos/SettingsTabIcon.png</file>
+    <file>logos/MuteButtonParking.png</file>
+    <file>logos/BusParkingIcon.png</file>
+    <file>logos/MuteButtonParking.png</file>
+    <file>logos/camera2Icon.png</file>
+    <file>logos/CameraTabIcon.png</file>
+    <file>logos/camera1.png</file>
+    <file>logos/callingIcon.png</file>
+    <file>logos/ReloadButtonIcon.png</file>
+    <file>logos/TrackIConBLE.png</file>
+    <file>logos/TuneIcon.png</file>
+    <file>logos/BLeSourceBtn.png</file>
+    <file>logos/NextBtnBLE.png</file>
+    <file>logos/PauseBtnIcon.png</file>
+    <file>logos/PreviousBtnIcon.png</file>
+    <file>logos/SelectBtnBLE.png</file>
+    <file>logos/StationIcon.png</file>
+    <file>logos/BandFM.png</file>
+    <file>logos/NextBtnFm.png</file>
+    <file>logos/PreviousBtnFm.png</file>
+    <file>logos/BLETABICON.png</file>
+    <file>logos/FMTABICON.png</file>
+    <file>logos/ParkingTabIcon.png</file>
+    <file>logos/USBTABICON.png</file>
+    <file>logos/MusicTabIcon.png</file>
+    <file>logos/PhoneTabIcon.png</file>
+    <file>logos/StatusTabIcon.png</file>
+    <file>logos/bluetooth.png</file>
+    <file>logos/cloud1.png</file>
+    <file>logos/network_icon.png</file>
+  </qresource>
+</RCC>
